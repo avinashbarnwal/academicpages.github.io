@@ -86,7 +86,7 @@ author:
   location         : "Arlington"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=_JQP0CIAAAAJ&hl=en"
   email            : "avinashbarnwal123@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Avinash_Barnwal3"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : ""
+  orcid            : "https://orcid.org/0000-0002-7581-0062"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
