@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Avinash Barnwal, Ph.D."
 title_separator          : "-"
 name                     : &name "Avinash Barnwal"
-description              : &description "Senior Datascientist - Kapitus"
+description              : &description "Senior Data Scientist - Kapitus"
 url                      : https://avinashbarnwal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "avinashbarnwal.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Avinash Barnwal, Ph.D."
+  name             : "Avinash Barnwal"
   avatar           : "profile.png"
   bio              : "Scientist with interests in Finance and Machine Learning"
   location         : "Arlington"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : ""
+  email            : "avinashbarnwal123@gmail.com"
+  researchgate     : "https://www.researchgate.net/profile/Avinash_Barnwal3"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "avinashbarnwal"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
