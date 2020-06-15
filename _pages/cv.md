@@ -11,13 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Statistics and Informatics, IIT Kharagpur, 2012
+* M.S. in Statistics and Informatics, IIT Kharagpur, 2012
+* Ph.D in Statistics, Stony brook University, 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Aug 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
