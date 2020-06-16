@@ -17,24 +17,38 @@ Education
 
 Work experience
 ======
-* Aug 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mar 2020: Senior Data Scientist
+  * Kapitus
+  * Predictive Modeling
+
+* Jun 2018 - Jan 2020: Data Scientist
+  * Inncretech
+  * Data Science
+
+* Aug 2015 - Jul 2016: Senior Manager
+  * Indiabulls Housing Finance
+  * Analytics and Investor Relations
+
+* Sep 2012 - Nov 2014: Assistant Manager
+  * Fullerton India Credit Company
+  * Analytics and Information Management
+
+* Jan 2015 - Jul 2015: Senior Analyst
+  * Deutsche Bank
+  * Derivates Funding Desk
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+* Data Science
+  * Statistics
+  * Algorithms
+  * Medical Imaging
+* Python
+* C++
+* R
 
 Publications
 ======
