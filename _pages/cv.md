@@ -70,4 +70,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Held muliple leadership positions during undergraduate and graduate schools.
