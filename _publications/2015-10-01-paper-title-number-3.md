@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "Stacking with Neural Network for Cryptocurrency investment"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: /publication/2019-05-11-crypto
+excerpt: 'Predicting the direction of assets have been an active area of study and difficult task. Machine learning models have been used to build robust models to model the above task. Ensemble methods are one of them resulting better than single supervised method. We have used generative and discriminative classifiers to create the stack, particularly 3 generative and 6 discriminative classifiers and optimized over one-layer Neural Network to model the direction of price cryptocurrencies. Features used are technical indicators not limited to trend, momentum, volume, volatility indicators and sentiment indicators. For Cross validation, Purged Walk forward cross validation has been used. In terms of accuracy, we have done comparative analysis of the performance of Ensemble method with Stacking and individual models. We have also developed methodology for features importance for stacked model. Important indicators are identified based on feature importance.'
 date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: '2019 New York Scientific Data Summit (NYSDS)'
+paperurl: 'https://ieeexplore.ieee.org/document/8909804'
+citation: 'A. Barnwal, H. P. Bharti, A. Ali and V. Singh, &quot"Stacking with Neural Network for Cryptocurrency investment"&quot<i> 2019 New York Scientific Data Summit (NYSDS) </i>.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Predicting the direction of assets have been an active area of study and difficult task. Machine learning models have been used to build robust models to model the above task. Ensemble methods are one of them resulting better than single supervised method. We have used generative and discriminative classifiers to create the stack, particularly 3 generative and 6 discriminative classifiers and optimized over one-layer Neural Network to model the direction of price cryptocurrencies. Features used are technical indicators not limited to trend, momentum, volume, volatility indicators and sentiment indicators. For Cross validation, Purged Walk forward cross validation has been used. In terms of accuracy, we have done comparative analysis of the performance of Ensemble method with Stacking and individual models. We have also developed methodology for features importance for stacked model. Important indicators are identified based on feature importance.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://ieeexplore.ieee.org/document/8909804)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: A. Barnwal, H. P. Bharti, A. Ali and V. Singh, "Stacking with Neural Network for Cryptocurrency investment," 2019 New York Scientific Data Summit (NYSDS), New York, NY, USA, 2019, pp. 1-5, doi: 10.1109/NYSDS.2019.8909804.
