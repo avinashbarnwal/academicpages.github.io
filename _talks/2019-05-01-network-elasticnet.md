@@ -1,11 +1,13 @@
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
+title: "Network Elastic Net for Identifying Smoking specific gene expression for lung cancer - Poster"
 collection: talks
-type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
-venue: "Testing Institute of America 2014 Annual Conference"
-date: 2014-03-01
-location: "Los Angeles, CA"
+type: "Talk"
+permalink: /talks/2019-05-01-network-elasticnet.md
+venue: "2019 New York Data Summit (NYSDS)"
+date: 2019-05-01
+location: "Columbia University, New York"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Poster Presentation of the paper     
+
+![](http://avinashbarnwal.github.io/files/stacked_nn_crypto_poster.png?raw=true)
