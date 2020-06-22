@@ -8,6 +8,4 @@ date: 2019-05-01
 location: "Columbia University, New York"
 ---
 
-Poster Presentation of the paper     
-
-![](http://avinashbarnwal.github.io/files/network_elasticnet_aft.png?raw=true)
+Poster Presentation of the paper <br/><img src='/files/network_elasticnet_aft.png'> 
